@@ -1,0 +1,27 @@
+.box{
+    min-height: 200px;
+}
+.paralax{
+    margin: 50px 0;
+}
+.parallax-window {
+	min-height: 400px;
+	background: transparent;
+}
+
+/** curved text
+ * Text 1
+ */
+ #text1
+ {
+     overflow:         hidden;
+     font:             normal normal normal 2.0em/1.5 'Open Sans Light', sans-serif;
+     color:            #ffffff;
+     background-color: #3fafee;
+ }
+
+ /* slick slider */
+ .slide_img img{
+    padding: 0 20px;
+
+ }
